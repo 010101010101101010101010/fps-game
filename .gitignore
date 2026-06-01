@@ -1,0 +1,13 @@
+*.import
+*.remap
+*.godot
+export_presets.cfg
+.godot/
+logs/
+build/
+
+.DS_Store
+Thumbs.db
+
+*.tmp
+*.temp
